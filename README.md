@@ -1,4 +1,4 @@
-# Differential Gene Expression between HER2 Sub-type Breast Cancer
+# Differential Gene Expression in HER2 Sub-type & other Breast Cancer
 
 This project involves differential gene expression analysis of HER2 sub-type breast cancer using RNA sequencing and copy number alteration (CNA) data from the TCGA dataset. The workflow includes data pre-processing, statistical analysis, pathway enrichment analysis, and survival analysis.
 
