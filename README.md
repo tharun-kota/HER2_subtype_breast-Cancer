@@ -31,7 +31,7 @@ This project involves differential gene expression analysis of HER2 sub-type bre
 
 ### 7. **Survival Analysis**
    - **Cox Proportional Hazard Model**: The survival data (Overall Survival Status and Months) are used to perform a Cox proportional hazard model to investigate the correlation between HER2 status and survival outcomes.
-   - **Survival Curves**: Survival curves are plotted for HER2 amplified and non-amplified groups.
+   
 
 ### 8. **Output**
    - The differentially expressed genes (DEGs) with adjusted p-values < 0.05 are saved in an Excel file (`DEG.xlsx`).
